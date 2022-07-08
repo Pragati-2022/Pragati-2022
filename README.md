@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-- 👋 Hi, I’m @Pragati-2022
+- 👋 I’m @Pragati-2022
 - 👀 I’m interested in developing. 
 - 🌱 I’m currently learning angular
 - 📫 How to reach me sanepara.pragati@gmail.com
