@@ -4,7 +4,6 @@
 - :telescope: I’m working as a Software Engineer
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning angular
-- 📫 How to reach me sanepara.pragati@gmail.com
 - :mailbox:How to reach me: sanepara.pragati@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <div>
