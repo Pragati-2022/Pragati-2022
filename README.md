@@ -4,6 +4,7 @@
 - 👀 I’m interested in developing. 
 - 🌱 I’m currently learning angular
 - 📫 How to reach me sanepara.pragati@gmail.com
+- :telescope:
 
 <!---
 Pragati-2022/Pragati-2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
