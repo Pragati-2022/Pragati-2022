@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 - 👋 I’m @Pragati-2022
-- :telescope: I’m working as a Software Engineer
+- :telescope: I’m working as a Jr. Software Developer
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning angular
 - :mailbox:How to reach me: sanepara.pragati@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
