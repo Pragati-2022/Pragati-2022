@@ -8,7 +8,7 @@
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular JS" alt="Angular JS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/reactjs/reactjs-original.svg" title="React JS" alt="React JS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React JS" alt="React JS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
